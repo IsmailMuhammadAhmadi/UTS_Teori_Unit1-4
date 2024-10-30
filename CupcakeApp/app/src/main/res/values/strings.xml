@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cupcake</string>
+    <string name="order_cupcakes">Pesan Cupcake</string>
+    <string name="one_cupcake">Satu Cupcake</string>
+    <string name="six_cupcakes">Enam Cupcakes</string>
+    <string name="twelve_cupcakes">Dua Belas Cupcakes</string>
+    <string name="choose_flavor">Pilih Rasa</string>
+    <string name="vanilla">Vanila</string>
+    <string name="chocolate">Coklat</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Salted Caramel</string>
+    <string name="coffee">Kopi</string>
+    <string name="special_flavor">Rasa Spesial</string>
+    <string name="cancel">Batalkan</string>
+    <string name="next">Berikutnya</string>
+    <string name="choose_pickup_date">Pilih Tanggal Pengambilan</string>
+    <string name="order_summary">Ringkasan Pesanan</string>
+    <string name="send">Kirim Pesanan ke Aplikasi Lain</string>
+    <string name="quantity">Kuantitas</string>
+    <string name="flavor">Rasa</string>
+    <string name="pickup_date">Tanggal Pengambilan</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">Pesanan Cupcake Baru</string>
+    <string name="order_details">Kuantitas: %1$s \nRasa: %2$s \nTanggal Pengambilan: %3$s \nTotal: %4$s \n\nTerima kasih!</string>
+    <string name="back_button">Kembali</string>
+    <plurals name="cupcakes">
+        <item quantity="one">%d Cupcake</item>
+        <item quantity="other">%d Cupcakes</item>
+    </plurals>
+</resources>
